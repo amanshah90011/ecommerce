@@ -1,4 +1,4 @@
-# ganesh_ecommerce_sales_dashboard
+# Ecommerce_sales_dashboard
 
 ## Objective :-
 This dashboard (Ganesh ecommerce sales dashboard)is created by PowerBI. Dashboard gives information about the sum of amount, sum of quantity, sum of profit, sum of avo (average order value), profit by month, profit by sub-category and others more. There are two filters available. The first is states (Gujarat, Delhi, Goa, Haryana) and the second is by quarters.
@@ -20,7 +20,4 @@ Total Profit by month.
 
 Trending payment mode.
 
-## Contact :-
-LinkedIn : https://www.linkedin.com/in/dhruv-kaneria-a7440820a
 
-Email : kaneriadhruv@gmail.com
